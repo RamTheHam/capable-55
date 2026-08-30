@@ -12,13 +12,14 @@ Historical figures describe prior capacity. They are not instructions to retest 
 |---|---|---:|---|---|
 | Body | Height | 178 cm | Reported | `TBD` |
 | Body | Weight | 84 kg | Reported | `TBD` |
-| Body composition | Jackson–Pollock 3-site estimate | 17.7% body fat | Reported estimate | Sites, operator and date `TBD` |
+| Body composition | Jackson–Pollock 3-site estimate | 17.7% body fat | Reported estimate | Chest 10.5 mm, abdomen 24 mm, thigh 16 mm; exact date `TBD` |
 | Strength endurance | Push-ups | 20 | Reported | Exact standard/date `TBD` |
 | Pulling strength | Strict pull-ups | 7 | Reported | Exact standard/date `TBD` |
 | Grip/shoulder endurance | Dead hang | 59 s | Reported | Grip/standard/date `TBD` |
 | Static balance | Eyes-closed single-leg, left | ≥79 s | Reported lower bound | Test stopped voluntarily; date `TBD` |
 | Static balance | Eyes-closed single-leg, right | 50 s | Reported | Balance lost; date `TBD` |
 | Recovery | Sleep | Approximately 6 h/night | Reported | Observation window `TBD` |
+| Adventure capacity | Sea kayaking | Approximately 5 h/day was possible but felt hard | Reported | Trip date, conditions and number of days `TBD` |
 
 ## Historical references
 
@@ -36,7 +37,11 @@ Historical figures describe prior capacity. They are not instructions to retest 
 |---|---|---|
 | Whole system | The body seldom limits a chosen activity | No single number |
 | Gymnastics | Rebuild prerequisites, then regain repeated muscle-ups | 6 consecutive CrossFit-style/kipping muscle-ups; target date `TBD` |
+| Pulling strength | Rebuild relative upper-body strength | 12–15 standardised strict pull-ups; target date `TBD` |
+| Strength endurance | Rebuild upper-body endurance | 40+ standardised push-ups; target date `TBD` |
+| Handstand skill | Develop useful overhead control, balance and coordination | 5 m handstand walk; target date `TBD` |
 | Running/adventure | Be ready for a spontaneous run of roughly 15 km | Pace and target date `TBD` |
+| Expedition capacity | Make long mountain days feel normal | Corsica's best-known long-distance route in roughly 10 days; route and readiness test `TBD` |
 | Aerobic engine | Rebuild repeatable whole-body capacity | First return 2,000 m row result `TBD`; no near-term time target set |
 | Strength | Rebuild useful force without chasing old loads prematurely | Current target values `TBD` |
 | Power | Preserve and rebuild force produced quickly | Test and target `TBD` |
@@ -66,7 +71,7 @@ Do not compare two results unless the protocol is the same or the change is reco
 
 ### Body, balance and recovery
 
-- **Body composition:** repeat the same Jackson–Pollock 3-site method under similar conditions about every eight weeks. Sites, operator and device are `TBD`.
+- **Body composition:** repeat the same Jackson–Pollock 3-site method under similar conditions about every eight weeks. The recorded sites are chest, abdomen and thigh; use the same side, operator technique, device and time of day. Exact landmark details and device remain `TBD`.
 - **Static balance:** eyes closed, single leg. Record surface, footwear, arm rule, attempt count, cap and reason the trial ended. Existing results lack these details.
 - **Sleep:** record bedtime, wake time, estimated duration and morning energy on a 1–5 scale. Resting heart rate is optional.
 - **Caffeine experiment:** the working hypothesis is that no caffeine after 12:00 improves sleep and training consistency. Initial test duration is two weeks; start date and result are `TBD`.

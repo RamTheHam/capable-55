@@ -7,9 +7,11 @@
 
 Henrik has a substantial training history: roughly 10 years of frequent CrossFit, historically around five sessions per week, plus running, cross-country skiing and mountain biking. The present situation is a return after substantial detraining/current low volume, with a roughly five-hour weekly training budget.
 
-The reported current/recent baseline is 178 cm, 84 kg, a 17.7% Jackson–Pollock 3-site body-fat estimate, 20 push-ups, seven strict pull-ups, a 59-second dead hang, and eyes-closed single-leg balance of at least 79 seconds on the left and 50 seconds on the right. Sleep is approximately six hours per night. Exact measurement dates and several protocols were not supplied.
+The reported current/recent baseline is 178 cm, 84 kg, a 17.7% Jackson–Pollock 3-site body-fat estimate, 20 push-ups, seven strict pull-ups, a 59-second dead hang, and eyes-closed single-leg balance of at least 79 seconds on the left and 50 seconds on the right. The skinfold inputs were chest 10.5 mm, abdomen 24 mm and thigh 16 mm. Sleep is approximately six hours per night. Exact measurement dates and several protocols were not supplied.
 
 Historical references are five consecutive CrossFit-style/kipping muscle-ups, 33 push-ups, a 20:00 5 km run, a 7:30 2,000 m row and a 180 kg deadlift. These figures show prior capacity, not present readiness.
+
+Real-world capacity already has one loose reference: roughly five hours per day of sea kayaking was possible but felt hard. The main outcome directions are six consecutive kipping muscle-ups, 12–15 strict pull-ups, 40+ push-ups, a five-metre handstand walk, spontaneous 15 km running capacity and readiness for demanding hiking, paddling, skiing, surfing and long mountain days.
 
 ## What remains unknown
 
@@ -44,6 +46,7 @@ Historical references are five consecutive CrossFit-style/kipping muscle-ups, 33
 | 2026-08-30 | Keep strength, aerobic capacity, power, skill, mobility, balance/coordination, recovery and adventure capacity in one system | The North Star is broad choice, not single-sport optimisation |
 | 2026-08-30 | Do not use a body-fat target yet | The estimate is imprecise and no individual performance target is evidence-justified |
 | 2026-08-30 | Defer detailed exercise prescriptions | Required inputs and current response data are still `TBD` |
+| 2026-08-30 | Use the agreed five-session, 12-week rebuild structure as a working template | It preserves the intended mix while leaving exact days, exercises, loads and progressions open until current response data exist |
 
 ## Next evidence-producing actions
 

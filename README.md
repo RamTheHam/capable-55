@@ -66,4 +66,4 @@ Each `measurements.csv` row is either an `observation` or an `amendment`. An obs
 
 ## Current state
 
-The repository began on 2026-08-30 with a reported baseline and historical references. Exact measurement dates, several test protocols, the first training ledger entry and the detailed rebuild prescription remain `TBD`.
+The repository began on 2026-08-30 with a reported baseline, historical references, a 12-week working rebuild template and an evidence base. Exact measurement dates, several test protocols, the first training ledger entry, exercise selection and training loads remain `TBD`.

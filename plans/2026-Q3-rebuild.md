@@ -29,11 +29,47 @@ These are boundaries supported by the imported evidence, not a complete weekly p
 - include a real-world low-to-moderate outing as a direct capacity check;
 - adjust load from observed response, not historical identity.
 
+## Working weekly template
+
+The conversation established this first-pass structure. It is a template to scale within roughly five hours, not permission to invent loads or train through a poor response.
+
+| Session | Working content | Nominal duration |
+|---|---|---:|
+| A | Strength plus gymnastics: squat/leg strength, press, strict pulling, trunk work and 10–15 minutes of hollow/arch, scapular or handstand skill | 70 min |
+| B | Zone 2 by bike, rower, SkiErg or easy running once impact tolerance permits | 60 min |
+| C | CrossFit/class, scaled before technique deteriorates | 60 min |
+| D | Strength plus power: hinge, unilateral leg work, pull/press, carries and a low-fatigue jump or throw selected after assessment | 60–70 min |
+| E | Engine/adventure through longer Zone 2, hiking, cycling, paddling and later running | 60–90 min |
+
+The nominal sessions can exceed five hours. Shorten or rotate them so the actual week stays near the time budget and recovery remains acceptable.
+
+## Twelve-week progression
+
+| Weeks | Working emphasis |
+|---|---|
+| 1–4 | Re-entry. Most strength work around RPE 6–7 with 2–4 repetitions in reserve; technical gymnastics; aerobic work mainly easy. |
+| 5–8 | Build. Add load and volume gradually; introduce explosive pulling, handstand work and controlled kipping only when shoulder capacity is suitable; add an occasional aerobic quality session. |
+| 9–11 | Perform. Let training feel more athletic through heavier strength, power, harder engine work and more specific gymnastics without maximising several qualities at once. |
+| 12 | Reduce volume, repeat the same standardised tests and review response, tolerance, bottlenecks and enjoyment before writing Block 2. |
+
+## Use the remaining PT sessions for information
+
+The source conversation allocated the roughly 10 remaining sessions as follows. The actual remaining count is now `TBD`.
+
+| PT sessions | Purpose |
+|---|---|
+| 1–2 | Movement and tolerance screen: shoulder, knee, hip, ankle, squat, hinge, overhead and scapular control |
+| 3–4 | Strength baseline and technique: deadlift/hinge, squat, press and carry; select suitable first-block variants |
+| 5–6 | Gymnastics: pull-up mechanics, kip, hollow/arch, handstand and muscle-up components |
+| 7–8 | Power and unilateral capacity: jumping, landing, step-down and single-leg strength |
+| 9 | Retest the areas that produced a useful limitation or warning signal after 6–8 weeks |
+| 10 | Handover: technique check and a clear programme that can continue without PT |
+
 ## Prescription status
 
 | Component | Current status |
 |---|---|
-| Exact weekly schedule | `TBD` |
+| Exact days and final weekly duration | `TBD`; use the working template above |
 | Exercise selection | `TBD` |
 | Sets, reps, loads and progression | `TBD` |
 | CrossFit class frequency/scaling rules | `TBD` |
@@ -42,7 +78,7 @@ These are boundaries supported by the imported evidence, not a complete weekly p
 | Mobility work based on identified restrictions | `TBD` |
 | Deload or low-readiness rule | `TBD` |
 
-The evidence document describes a working weekly distribution of two strength-oriented exposures, low-intensity aerobic work, one higher-intensity or mixed CrossFit exposure, an engine/adventure exposure and small skill/power doses. That distribution remains a hypothesis until the schedule and response rules are set.
+The working template remains a hypothesis until its days, exercise choices, loads and response rules are set.
 
 ## Assessment queue
 
@@ -53,9 +89,9 @@ The evidence document describes a working weekly distribution of two strength-or
 | 2,000 m row | Historical 7:30 | Complete a controlled hard return test when appropriate; date/result `TBD` |
 | Running | Historical 5 km in 20:00 | Establish impact tolerance before a later 5 km benchmark |
 | Strength | Historical deadlift 180 kg | Select a submaximal assessment; method/result `TBD` |
-| Body composition | Reported 17.7% estimate | Repeat the same 3-site method under comparable conditions; details `TBD` |
+| Body composition | Reported 17.7% estimate from chest 10.5 mm, abdomen 24 mm and thigh 16 mm | Repeat the same 3-site method under comparable conditions; exact landmarks/device `TBD` |
 | Mobility | No current restriction map | Assess usable, movement-specific range; results `TBD` |
-| Real-world capacity | No current result | Complete an approximately 90-minute low-to-moderate outing; modality/date `TBD` |
+| Real-world capacity | Roughly 5 h/day of sea kayaking was possible but felt hard | Complete a standardised approximately 90-minute low-to-moderate outing; modality/date `TBD` |
 | Sleep/caffeine | Around 6 h sleep; noon cutoff is a personal hypothesis | Run a two-week observation; start date/result `TBD` |
 
 ## Monitoring
