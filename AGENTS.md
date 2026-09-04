@@ -14,6 +14,7 @@ Read `README.md`, `PROFILE.md`, `SCORECARD.md`, the current file in `plans/`, th
 - Use ISO 8601 dates. Include a UTC offset and IANA timezone for timestamps; default to `Europe/Stockholm` only when appropriate.
 - Preserve the raw conversational wording when creating a structured training record.
 - Follow `training/README.md` exactly. Add corrections as amendment events; never edit an existing JSONL line.
+- For Hermes/voice ingestion, also follow `training/HERMES.md` and use `training/tools/append_session.py` rather than hand-editing the ledger.
 - Treat `measurements.csv` as append-only. Use a new unique `record_id` for each observation or correction.
 - Keep historical results as references, not proof of current readiness or automatic targets.
 - Cite `research/evidence.md` and the underlying source for substantive program changes. Record the decision in a dated review.
@@ -21,6 +22,10 @@ Read `README.md`, `PROFILE.md`, `SCORECARD.md`, the current file in `plans/`, th
 - Do not add sensitive medical or mental-health information unless Henrik explicitly requests that specific record.
 - Keep all formats and instructions model/provider-independent. Do not require Hermes, ChatGPT, Claude or any vendor-specific feature.
 - Before committing, validate CSV shape, parse every JSONL record if the ledger exists, check links/paths, and review the diff for invented facts.
+
+## Persistence truthfulness
+
+Never tell Henrik that a training report is `saved`, `logged`, `done`, or equivalent merely because it was parsed in chat or voice. Those words are reserved for a record that has been written to the canonical ledger and verified in the remote GitHub repository. If persistence fails, say exactly whether the event is only parsed, written locally, committed locally, or verified remotely.
 
 ## Commit discipline
 
