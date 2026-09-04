@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/RamTheHam/capable-55/training/session.schema.json",
+  "title": "Capable 55 training event",
+  "type": "object",
+  "required": ["schema_version", "record_type", "record_id", "recorded_at", "timezone", "source"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "record_type": {"enum": ["session", "amendment"]},
+    "record_id": {"type": "string", "minLength": 1},
+    "session_date": {"type": ["string", "null"], "format": "date"},
+    "recorded_at": {"type": "string", "format": "date-time"},
+    "timezone": {"type": "string", "minLength": 1},
+    "source": {
+      "type": "object",
+      "required": ["interface", "agent", "reporter", "raw_text"],
+      "properties": {
+        "interface": {"enum": ["chat", "voice", "manual_import", "other"]},
+        "agent": {"type": "string", "minLength": 1},
+        "reporter": {"type": "string", "minLength": 1},
+        "raw_text": {"type": "string", "minLength": 1},
+        "source_event_id": {"type": ["string", "null"]}
+      },
+      "additionalProperties": true
+    },
+    "title": {"type": ["string", "null"]},
+    "modalities": {"type": "array", "items": {"type": "string"}},
+    "started_at": {"type": ["string", "null"]},
+    "duration_min": {"type": ["number", "null"], "minimum": 0},
+    "session_rpe": {"type": ["number", "null"], "minimum": 0, "maximum": 10},
+    "activities": {"type": "array"},
+    "symptoms": {"type": "array"},
+    "metrics": {"type": "array"},
+    "notes": {"type": ["string", "null"]},
+    "field_sources": {"type": "object"},
+    "ingest": {
+      "type": "object",
+      "properties": {
+        "idempotency_key": {"type": "string", "minLength": 1},
+        "ingested_by": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": true
+    },
+    "target_record_id": {"type": "string"},
+    "reason": {"type": "string"},
+    "operations": {"type": "array"}
+  },
+  "additionalProperties": true
+}
